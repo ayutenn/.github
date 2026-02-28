@@ -1,2 +1,0 @@
-# .github
-discription of ayutenn 
