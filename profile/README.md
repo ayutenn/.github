@@ -8,9 +8,9 @@ ayutennは、個人利用を目的としたwebフレームワークです。
 github上で公開されていますが、**俺以外の利用は推奨しません。**
 
 ## 構成
-- **ayutenn-skeleton**: ayutennのプロジェクトテンプレートです。
-- **ayutenn-core**: ayutenn本体。メイン機能郡です。
-- **ayutenn-css**: ayutennのためのcss・jsライブラリです。
+- **[ayutenn-skeleton](https://github.com/ayutenn/ayutenn-skeleton)**: ayutennのプロジェクトテンプレートです。
+- **[ayutenn-core](https://github.com/ayutenn/ayutenn-core)**: ayutenn本体。メイン機能郡です。
+- **[ayutenn-css](https://github.com/ayutenn/ayutenn-css)**: ayutennのためのcss・jsライブラリです。
 
 ## 思想
 ### なるべくシンプル
